@@ -65,4 +65,4 @@ Read file [LICENSE](LICENSE)
 
 [Blog](http://sres.tumblr.com)
 
-[Project Information]()
+[Discussion](http://sres.tumblr.com/post/170289788618/hider-hide-controllers-from-applicationsgames)
