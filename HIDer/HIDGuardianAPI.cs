@@ -37,7 +37,7 @@ namespace HIDer
                     else if (devicedesc.Contains("keyboard"))
                         devicesstring += "USB Keyboard:";
                     else
-                        devicesstring += device.GetPropertyValue("Description");
+                        devicesstring += device.GetPropertyValue("Description") + ":";
                     devicesstring += deviceid + ";";
                 }
             }
